@@ -1,0 +1,30 @@
+2020-05-31 00:58:23.237 [INFO] [DotStub][com.os360.dotstub.logger.log.Log][Pid:26354][Tid:2] init logger >>>>>>>>>
+2020-05-31 00:58:23.238 [INFO] [DotStub][Common_Log][Pid:26354][Tid:2] log init success,log directory = /storage/emulated/0/down/log
+2020-05-31 00:59:17.901 [ERROR] [DotStub][BullQueryHelper][Pid:26354][Tid:34931] [bulllimitQueryCount]-1
+2020-05-31 00:59:17.905 [ERROR] [DotStub][BullQueryHelper][Pid:26354][Tid:34931] [buildJsonWithBullEye][bulllimitQueryCount]-1
+2020-05-31 00:59:17.906 [ERROR] [DotStub][BullQueryHelper][Pid:26354][Tid:34931] [executeQerryByPkgNames][LbsInfo]java.lang.NullPointerException: Attempt to read from field 'android.os.MessageQueue android.os.Looper.mQueue' on a null object reference
+2020-05-31 00:59:17.912 [ERROR] [DotStub][BullQueryHelper][Pid:26354][Tid:34931] [post][开始查询][json]{"m1":"4bc547748f7dd9a0a99c3a56b85a604f","os":"28","sw":"720","m2":"f358a48958dceb3c2f581dcd5005e5a6","appvint":"3051","dip":"2","chanel":"-1","serialno":"unknown","apppkg":"com.qihoo360.transfer","br":"samsung","carrier":"0","osv":"9","adid":"09dce444ce01d3cc","solution":"samsung","appname":"安全换机","sh":"1402","md":"SM-A102U","appv":"4.01.004_2019.10.21_Light_v2_abroad","imei":"357644102638503","so":"1","net":"wifi","lbs":{},"filter_packages":["com.samsung.oh","com.mcdonalds.app","com.paypal.android.p2pmobile","com.xoom.android.app","com.playtika.wsop.gp","com.walmart.android","com.onedebit.chime","com.mizmowireless.vvm","com.google.android.apps.tachyon","com.zellepay.zelle","com.google.android.music","com.squareup.cash","com.dti.folderlauncher","com.google.android.apps.docs","com.pandora.android","com.ubercab.eats","com.google.android.videos","com.dd.doordash","com.google.android.apps.photos","com.ProActMobile","com.ultimatesoftware.ultipromobile","com.airbnb.android","com.facebook.orca","com.murphy.driverewards","com.sec.android.app.popupcalculator","com.qiku.android.clone360","com.momentum.video","com.samsung.android.app.notes","com.adfone.aditup","com.infonow.bofa","com.bluejeansnet.Base"]}
+2020-05-31 00:59:17.917 [ERROR] [DotStub][HttpHelper][Pid:26354][Tid:34931] [bx][reqUrl]http://bxe.comp.360os.com/aim/e/v1/q?aid=100006&pid=1034&sv=1.0
+2020-05-31 00:59:18.769 [ERROR] [DotStub][BullQueryHelper][Pid:26354][Tid:34933] [onResponse!=200]400[response]{"errno":"10001","errmsg":"请求参数异常","pos_id":"1034","adv_type":"","adv_sub_type":"","expire_time":"","trackid":"64be1378-2742-42ba-af36-bf7af86785fd","app_dl_datas":null,"movie_datas":null,"cate_datas":null,"contextData":null,"last_interface_name":""}
+2020-05-31 00:59:27.688 [ERROR] [DotStub][DotStub][Pid:26354][Tid:34843] [onNetManagerStatus][net]0
+2020-05-31 00:59:28.982 [ERROR] [DotStub][DotStub][Pid:26354][Tid:34843] [onNetManagerStatus][net]2
+2020-05-31 01:00:34.262 [INFO] [DotStub][com.os360.dotstub.logger.log.Log][Pid:29707][Tid:2] init logger >>>>>>>>>
+2020-05-31 01:00:34.264 [INFO] [DotStub][Common_Log][Pid:29707][Tid:2] log init success,log directory = /storage/emulated/0/down/log
+2020-05-31 01:01:06.867 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:01:06.868 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:01:29.724 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]0
+2020-05-31 01:01:30.494 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]2
+2020-05-31 01:01:34.120 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:01:34.122 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:02:35.112 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]0
+2020-05-31 01:02:35.792 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]2
+2020-05-31 01:02:37.980 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:02:37.983 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:03:07.813 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]0
+2020-05-31 01:03:08.849 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]2
+2020-05-31 01:03:15.238 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:03:15.246 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:04:03.939 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]0
+2020-05-31 01:04:05.013 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]2
+2020-05-31 01:04:07.557 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
+2020-05-31 01:04:07.572 [ERROR] [DotStub][DotStub][Pid:29707][Tid:35176] [onNetManagerStatus][net]1
